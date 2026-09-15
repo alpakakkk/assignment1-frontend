@@ -1,0 +1,134 @@
+/* Element selector */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+p {
+    font-size: 1em;
+}
+
+/* ID selector */
+#main-heading {
+    color: darkblue;
+    font-size: 2rem;
+}
+
+/* Class selector */
+.highlight {
+    background-color: yellow;
+    padding: 10px;
+}
+
+/* Div sections */
+
+.header {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+}
+
+.main {
+    width: 80%;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    border: 2px solid #cccccc;
+}
+
+.footer {
+    background-color: lightgray;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Image and sizing */
+
+.profile-photo {
+    width: 30%;
+    max-width: 250px;
+    border: 3px solid black;
+    padding: 5px;
+}
+
+/* Table */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+input {
+    padding: 5px;
+}
+
+/* Positioning */
+
+.static-box {
+    position: static;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.relative-box {
+    position: relative;
+    left: 20px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.position-area {
+    position: relative;
+    height: 70px;
+    border: 1px dashed gray;
+}
+
+.absolute-box {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+/* Float */
+
+.left-box {
+    float: left;
+    width: 40%;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.right-box {
+    float: right;
+    width: 40%;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+/* Feedback */
+.feedback {
+    width: 100%;
+    max-width: 130px;
+    padding: 5px;
+}
+
+.clear {
+    clear: both;
+}
