@@ -18,7 +18,7 @@ I also added headings and paragraphs to introduce myself.
 
 ### Screenshot
 
-![HTML Structure]("D:\все важное\assignment1_frontend\screenshots\screenshot1.png")
+![HTML Structure](screenshots/screenshot1.png)
 
 ---
 
@@ -28,7 +28,7 @@ I created an ordered list for my hobbies and an unordered list for my favorite w
 
 ### Screenshot
 
-![HTML Lists]("D:\все важное\assignment1_frontend\screenshots\screenshot2.png")
+![HTML Lists](screenshots/screenshot2.png)
 
 ---
 
@@ -38,7 +38,7 @@ I added an image using the `img` element and clickable links using the `a` eleme
 
 ### Screenshot
 
-![Images and Links]("D:\все важное\assignment1_frontend\screenshots\screenshot3.png")
+![Images and Links](screenshots/screenshot3.png)
 
 ---
 
@@ -48,7 +48,7 @@ I created a simple button with the text "Click Me".
 
 ### Screenshot
 
-![Button]("D:\все важное\assignment1_frontend\screenshots\screenshot4.png")
+![Button](screenshots/screenshot4.png)
 
 ---
 
@@ -65,7 +65,7 @@ I created a short paragraph describing my mood and added emojis.
 
 ### Screenshot
 
-![Emojis and Table]("D:\все важное\assignment1_frontend\screenshots\screenshot5.png")
+![Emojis and Table](screenshots/screenshot5.png)
 
 ---
 
@@ -80,7 +80,7 @@ I created a form containing:
 
 ### Screenshot
 
-![Form]("D:\все важное\assignment1_frontend\screenshots\screenshot6.png")
+![Form](screenshots/screenshot6.png)
 
 ---
 
@@ -108,7 +108,7 @@ For example, I created the `.highlight` class and the `#main-heading` ID.
 
 ### Screenshot
 
-![CSS]("D:\все важное\assignment1_frontend\screenshots\screenshot7.png")
+![CSS](screenshots/screenshot7.png)
 
 ---
 
@@ -137,7 +137,7 @@ I created examples of:
 
 ### Screenshot
 
-![CSS Positioning and Box]("D:\все важное\assignment1_frontend\screenshots\screenshot9.png")
+![CSS Positioning and Box](screenshots/screenshot9.png)
 
 ## Step 19 – CSS Sizing
 
@@ -150,7 +150,7 @@ I used different CSS units, including:
 
 ### Screenshot
 
-![CSS Sizing and Div]("D:\все важное\assignment1_frontend\screenshots\screenshot8.png")
+![CSS Sizing and Div](screenshots/screenshot8.png)
 
 ## Step 20 – Float and Clear
 
@@ -160,7 +160,7 @@ I used `clear: both` to prevent layout problems after the floated elements.
 
 ### Screenshot
 
-![CSS Layout]("D:\все важное\assignment1_frontend\screenshots\screenshot10.png")
+![CSS Layout](screenshots/screenshot10.png)
 
 ---
 
