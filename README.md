@@ -2,7 +2,7 @@
 
 ## Student Information
 
-**Name:** Almanzor Kamzeyev 
+**Name:** Almanzor Kamzeyev  
 **Group:** SE-2540  
 **Course:** WEB Technologies 1
 
