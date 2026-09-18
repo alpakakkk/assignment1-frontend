@@ -122,13 +122,13 @@ input {
     border: 1px solid black;
 }
 
+.clear {
+    clear: both;
+}
+
 /* Feedback */
 .feedback {
     width: 100%;
     max-width: 130px;
     padding: 5px;
-}
-
-.clear {
-    clear: both;
 }
